@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+	<planeta id="1" 
+			 nome="Jakku" 
+			 clima="Desconhecido"
+			 terreno="Desconhecido" 
+			 numero_aparicoes="1" />
+			 
+	<planeta id="2" 
+			 nome="Shili" 
+			 clima="temperate"
+			 terreno="cities, savannahs, seas, plains" 
+			 numero_aparicoes="0" />
+	
+	<planeta id="3" 
+			 nome="Muunilinst" 
+			 clima="temperate"
+			 terreno="plains, forests, hills, mountains" 
+			 numero_aparicoes="1" />
+			 
+	<planeta id="4" 
+			 nome="Skako" 
+			 clima="temperate"
+			 terreno="urban, vines" 
+			 numero_aparicoes="0" />
+			 
+</dataset>
